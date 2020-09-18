@@ -25,7 +25,7 @@
                             <input required type="number" class="form-control" id="exampleInputEmail1" name="b">
                         </div>
                         <div class="form-group">
-                            <label for="exampleInputEmail1" class="date" >Ingresar fecha de nacimiento</label>
+                            <label for="exampleInputEmail1" class="date" >Ingresar Operacion</label>
                             <select required class="form-control" id="exampleSelect1" name="x">
                                 <option selected disabled> Seleccionar Operador</option>
                                 <option value="1" >Suma</option>

@@ -1,7 +1,5 @@
 <%-- 
-    Document   : juego
-    Created on : 14-sep-2020, 23:47:05
-    Author     : PC
+
 --%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <jsp:include page="layout/header.jsp"></jsp:include>
